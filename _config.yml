@@ -6,59 +6,42 @@ title: Matreeks Consulting
 email: contact@matreeks.com
 description: "Helping Healthcare And Edtech Startups To Achieve Technological Maturity."
 
-
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  - name: George Goodwin
+    pic: 1
+    position: CEO
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  - name: Mark Kovalchyk
+    pic: 2
+    position: Sales Consulting
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/matreeks
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://facebook.com/matreeks
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/matreeks
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 2275 Lake Shore Blvd W
+  - line: Toronto, ON M8V 3Y3
+  - line: Canada
 
 # Build settings
 markdown: kramdown
